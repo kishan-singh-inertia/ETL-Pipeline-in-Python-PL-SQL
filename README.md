@@ -72,6 +72,7 @@ else:
 ---
 Required package:
 ```
+pip install oracledb
 pip install petl
 pip install openpyxl
 ```
