@@ -1,4 +1,4 @@
-## ETL Pipeline in Python & PL\SQL.
+## ETL Pipeline in Python & Oracle SQL.
 ---
 Extracted data from expenses.xlsx and 
 ```
